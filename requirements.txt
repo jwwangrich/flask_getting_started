@@ -1,2 +1,7 @@
+pymodm
 flask
-gunicorn
+numpy
+datetime
+pytest
+pytest-pep8
+sphinx
